@@ -1,2 +1,4 @@
 server:
   ip: 2.2.2.2
+config:
+  info: 2222
